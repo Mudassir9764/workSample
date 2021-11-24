@@ -1,0 +1,109 @@
+/*Firstly We Have reset a margin and padding*/
+*{
+  margin: 0;
+  padding: 0;
+}
+/*After this we are use body and set The background color of Website*/
+body{
+  background-color:  #d8d9da;
+}
+/*This is nav baar CSS*/
+nav{
+  display: flex;
+  text-align: center;
+  justify-content: center;
+  align-items: center;
+  
+}
+.logu img{
+  height: 100px;
+  width: 100px;
+}
+nav a{
+  padding: 3px 50px;
+  text-decoration: none;
+  font-size: 30px;
+  color: black;
+}
+/*After this I am making Two box */
+
+.Second{
+  position: relative;
+  top:100px;
+  left: 505px;
+  
+}
+
+.x3{
+height: 250px;
+width: 700px;
+
+border-top-left-radius: 15px;
+border-top-right-radius: 15px;
+border-bottom-left-radius: 15px;
+border-bottom-style: inherit; 
+background-color:#eff5f5;  
+}
+.x4{
+  margin-left:450px;
+  height:75px;
+  width: 250px;
+  
+  border-bottom-left-radius: 15px;
+  border-bottom-right-radius: 15px;
+  border-top-style:inherit;
+  background-color:#eff5f5;  
+}
+.first{
+   position: relative;
+  bottom: 120px;
+  left: 300px;
+
+}
+.x1{
+width: 200px;
+height: 150px;
+
+border-top-left-radius: 15px;
+border-top-right-radius: 15px;
+border-block-end-style: inherit;
+background-color:  #b4b9bd;
+}
+.x2{
+width: 650px;
+height:150px;
+
+border-bottom-left-radius: 15px;
+border-bottom-right-radius:15px; 
+border-top-right-radius: 15px;
+border-top-left-radius: indianred;
+background-color:  #b4b9bd;
+}
+.p1{
+  font-size:30px;
+  text-align: center;
+  text-transform: uppercase;
+}
+.p2{
+    font-size:65px;
+  text-align: center;
+  text-transform: uppercase;
+}
+.p3{
+    font-size:50px;
+  text-align: center;
+  text-transform: uppercase;
+}
+.p4{
+    font-size:30px;
+  text-align: center;
+  text-transform: uppercase;
+}
+/*This is Footer Of Website*/
+footer p{
+  text-align: center;
+  background-color:  rgb(177, 179, 179);
+  }
+
+
+ 
